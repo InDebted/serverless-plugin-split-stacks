@@ -36,7 +36,7 @@
     "sinon": "^14.0.1"
   },
   "dependencies": {
-    "aws-info": "github:InDebted/aws-info-node",
+    "aws-info": "github:InDebted/aws-info-node#c02ab34b3629f3398337f79b8db7518958c6759b",
     "lodash": "^4.17.21",
     "semver": "^7.3.5",
     "throat": "^6.0.1"
